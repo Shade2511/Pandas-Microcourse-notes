@@ -13,7 +13,7 @@ test = pd.Series([10, 9, 8, 7, 6, 5, 4, 3, 2, 1])
 # --- Accessing data with iloc and loc ---
 df2 = pd.DataFrame({
     'name': ["Jack", "Shade", "Man"],
-    'Desc': ["i am better", "i am shade", "baba boi"],
+    'Desc': ["i am better", "i am shade", "i like candy"],
     'ID': ["2511", "1196", "001"]
 }, index=[1, 2, 3])
 
