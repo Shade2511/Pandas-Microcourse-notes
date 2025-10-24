@@ -1,4 +1,3 @@
-Pandas-Microcourse-notes
 My practice code from Pandas micro-course, showcasing key data manipulation concepts I learned from Kaggle in Python.
 This repository contains my hands-on practice from the Pandas Micro-Course in a more clean and structured manner.
 Topics covered:
